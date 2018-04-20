@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/excel/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/excel/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="lib/excel/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/excel/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/excel/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/excel/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/excel/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/excel/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/excel/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/json/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/json/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/json/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/database/sqlite-jdbc-3.21.0.jar"/>
+	<classpathentry kind="lib" path="lib/public/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/public/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/database/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="lib/database/mssql-jdbc-6.4.0.jre8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
